@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/include/bmp.h=GBK
+encoding//src/include/liblightmodbus-config.h=GBK
+encoding//src/include/liblightmodbus.h=GBK
+encoding//src/include/modbus.h=GBK
+encoding//src/include/modbus/discrete_input.h=GBK
+encoding//src/liblightmodbus-3.0/include/lightmodbus/lightmodbus.h=GBK
+encoding//src/liblightmodbus-3.0/include/lightmodbus/slave.h=GBK
+encoding//src/liblightmodbus-impl.c=GBK
+encoding//src/modbus/discrete_input.c=GBK
+encoding//src/modbus/iregs.c=GBK
+encoding/<project>=UTF-8
